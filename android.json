@@ -3,8 +3,8 @@
     "updateUrl":"http://appdown.1vdmq4.com/zhengtian_download/",
     "branches":[
       {
-        "code":"1000",
-        "version":"1.0.0",
+        "code":"1002",
+        "version":"1.0.2",
         "status":"release"
       }
     ]
